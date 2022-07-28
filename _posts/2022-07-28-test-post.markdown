@@ -1,6 +1,6 @@
 ---
 title: This is my first post
-Description: Hallooooooo
+layout: post
 ---
 
 ### This is a heading
